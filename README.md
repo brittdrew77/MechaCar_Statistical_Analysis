@@ -18,9 +18,10 @@
 
 ## T-Tests on Suspension Coils
 <img width="401" alt="Screen Shot 2022-08-24 at 4 57 14 PM" src="https://user-images.githubusercontent.com/105089651/186522239-5a29da25-7356-47fe-9529-ddf99fbbdef5.png">
+* For all three lots, there was a p-value of 0.06, which is larger than 0.05. With a large p-value, we fail to reject the null hypothesis. In other words, there is evidence that the true mean is 1500. The PSI across all manufacturing lots is not statistically different than the population mean. 
+
 <img width="657" alt="Screen Shot 2022-08-24 at 4 55 49 PM" src="https://user-images.githubusercontent.com/105089651/186522257-7aad6867-f27e-43b0-bf8e-85f2b44068ed.png">
 
-* For all three lots, there was a p-value of 0.06, which is larger than 0.05. With a large p-value, we fail to reject the null hypothesis. In other words, there is evidence that the true mean is 1500. The PSI across all manufacturing lots is not statistically different than the population mean. 
 * For lot 1, the p-value was 1. This means there is strong evidence that the true mean is 1500. 
 * Similarly, for lot 2 there is also a large p-value of 0.61, indicating that there is strong evidence that the PSI is not statistically different from the population mean of 1500. 
 * For lot 3, there was a small p-value of 0.042. In this case, we can reject the null hypothesis meaning there is evidence that the true population mean is not equal to 1500. 
