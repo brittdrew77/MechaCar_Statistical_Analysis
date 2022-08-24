@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-
+<img width="820" alt="Screen Shot 2022-08-24 at 3 55 07 PM" src="https://user-images.githubusercontent.com/105089651/186511301-9b6edc80-999a-484f-96f2-aaf39875bb5c.png">
 
 * The variables that provided a non-random amount of variance to the mpg values in the dataset were ground_clearance and vehicle_length.
 
