@@ -25,3 +25,6 @@
 * For lot 1, the p-value was 1. This means there is strong evidence that the true mean is 1500. 
 * Similarly, for lot 2 there is also a large p-value of 0.61, indicating that there is strong evidence that the PSI is not statistically different from the population mean of 1500. 
 * For lot 3, there was a small p-value of 0.042. In this case, we can reject the null hypothesis meaning there is evidence that the true population mean is not equal to 1500. 
+
+## Study Design: MechaCar vs Competition
+In order to quantify how MechaCar performs against the competition, I would design a study to look at safety ratings. I would use a chi-squared test since rating is an ordinal (categorical) variable. I would need the safety ratings from MechaCar and its competitors. I would collect this data using whole numbers on a scale of 0-5, where 5 is the best. I would then find the average safety ratings of MechaCar versus the average of its competitors. The null hypothesis is: MechaCar's safety ratings are not different than that of its competitors. The alternative hypothesis is: MechaCar's safety ratings are better than that of its competitors. 
