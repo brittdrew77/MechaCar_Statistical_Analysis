@@ -16,3 +16,4 @@
 * For all maufacturing lots in total, the current manufacturing data meets this design specification of having a variance not exceeding 100 pounds per square inch. The variance of all manufaturing lots is approximately 62.29 pounds per square inch.
 * For each lot individually, the manufacturing data does not meet this requirement. In lot 1 the variance is 0.98 and in lot 2 the variance is 7.47. However, lot 3 does not meet the requirement, since the variance is 170.29 pounds per square inch. Lot 3 appears to be affecting the total data since the variance is so high compared to the other two lots. 
 
+## T-Tests on Suspension Coils
